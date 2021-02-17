@@ -15,6 +15,6 @@ def summation(num):
         my_sum = my_sum + i
         
         i+=1
-    print(my_sum)
+    return my_sum
 
 summation(8)
