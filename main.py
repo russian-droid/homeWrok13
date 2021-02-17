@@ -16,5 +16,7 @@ def summation(num):
         
         i+=1
     return my_sum
-
-summation(8)
+#--------------------------
+#someone else's way
+def summation(num):
+    return (1+num) * num / 2
